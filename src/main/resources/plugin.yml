@@ -1,5 +1,5 @@
   name: BlankPlugin
-  main: com.gmail.jlmerrett.SimpleTreeCap.BlankPlugin
+  main: com.gmail.jlmerrett.BlankPlugin.BlankPlugin
   version: 0.0.1
   api-version: 1.18
   author: OffJosh
