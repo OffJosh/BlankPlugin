@@ -1,12 +1,12 @@
-package com.gmail.jlmerrett.SimpleTreeCap;
+package com.gmail.jlmerrett.BlankPlugin;
 
-import com.gmail.jlmerrett.SimpleTreeCap.EventHandlers.BreakBlockEventHandler;
-import com.gmail.jlmerrett.SimpleTreeCap.EventHandlers.Commands;
-import com.gmail.jlmerrett.SimpleTreeCap.EventHandlers.PlayerJoinEventHandler;
+import com.gmail.jlmerrett.BlankPlugin.EventHandlers.BreakBlockEventHandler;
+import com.gmail.jlmerrett.BlankPlugin.EventHandlers.Commands;
+import com.gmail.jlmerrett.BlankPlugin.EventHandlers.PlayerJoinEventHandler;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class SimpleTreeCap extends JavaPlugin {
+public class BlankPlugin extends JavaPlugin {
 
     static BreakBlockEventHandler breakBlockEventHandler;
     static PlayerJoinEventHandler playerJoinEventHandler;
